@@ -1,0 +1,13 @@
+/Users/felipecastro/Desktop/Felipe Castro/My Programming/Personal/My Code/C#/Basic Applications/MyFirstApplication/MyFirstApplication/bin/Debug/netcoreapp3.1/MyFirstApplication.deps.json
+/Users/felipecastro/Desktop/Felipe Castro/My Programming/Personal/My Code/C#/Basic Applications/MyFirstApplication/MyFirstApplication/bin/Debug/netcoreapp3.1/MyFirstApplication.runtimeconfig.json
+/Users/felipecastro/Desktop/Felipe Castro/My Programming/Personal/My Code/C#/Basic Applications/MyFirstApplication/MyFirstApplication/bin/Debug/netcoreapp3.1/MyFirstApplication.runtimeconfig.dev.json
+/Users/felipecastro/Desktop/Felipe Castro/My Programming/Personal/My Code/C#/Basic Applications/MyFirstApplication/MyFirstApplication/bin/Debug/netcoreapp3.1/MyFirstApplication.dll
+/Users/felipecastro/Desktop/Felipe Castro/My Programming/Personal/My Code/C#/Basic Applications/MyFirstApplication/MyFirstApplication/bin/Debug/netcoreapp3.1/MyFirstApplication.pdb
+/Users/felipecastro/Desktop/Felipe Castro/My Programming/Personal/My Code/C#/Basic Applications/MyFirstApplication/MyFirstApplication/obj/Debug/netcoreapp3.1/MyFirstApplication.csproj.AssemblyReference.cache
+/Users/felipecastro/Desktop/Felipe Castro/My Programming/Personal/My Code/C#/Basic Applications/MyFirstApplication/MyFirstApplication/obj/Debug/netcoreapp3.1/MyFirstApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipecastro/Desktop/Felipe Castro/My Programming/Personal/My Code/C#/Basic Applications/MyFirstApplication/MyFirstApplication/obj/Debug/netcoreapp3.1/MyFirstApplication.AssemblyInfoInputs.cache
+/Users/felipecastro/Desktop/Felipe Castro/My Programming/Personal/My Code/C#/Basic Applications/MyFirstApplication/MyFirstApplication/obj/Debug/netcoreapp3.1/MyFirstApplication.AssemblyInfo.cs
+/Users/felipecastro/Desktop/Felipe Castro/My Programming/Personal/My Code/C#/Basic Applications/MyFirstApplication/MyFirstApplication/obj/Debug/netcoreapp3.1/MyFirstApplication.csproj.CoreCompileInputs.cache
+/Users/felipecastro/Desktop/Felipe Castro/My Programming/Personal/My Code/C#/Basic Applications/MyFirstApplication/MyFirstApplication/obj/Debug/netcoreapp3.1/MyFirstApplication.dll
+/Users/felipecastro/Desktop/Felipe Castro/My Programming/Personal/My Code/C#/Basic Applications/MyFirstApplication/MyFirstApplication/obj/Debug/netcoreapp3.1/MyFirstApplication.pdb
+/Users/felipecastro/Desktop/Felipe Castro/My Programming/Personal/My Code/C#/Basic Applications/MyFirstApplication/MyFirstApplication/obj/Debug/netcoreapp3.1/MyFirstApplication.genruntimeconfig.cache
