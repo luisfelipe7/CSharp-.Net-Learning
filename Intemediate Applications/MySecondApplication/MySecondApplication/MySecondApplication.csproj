@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<StartupObject>MySecondApplication.Exercises.Six.Application</StartupObject>
+		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+		<GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
+	</PropertyGroup>
+	<ItemGroup>
+		<None Remove="Entity\" />
+		<None Remove="Exercises\" />
+		<None Remove="Exercises\One\" />
+		<None Remove="Exercises\Two\" />
+		<None Remove="Applications\" />
+		<None Remove="Exercises\Three\" />
+		<None Remove="Exercises\Four\" />
+		<None Remove="Exercises\Five\" />
+		<None Remove="Exercises\Six\" />
+	</ItemGroup>
+	<ItemGroup>
+		<Folder Include="Entity\" />
+		<Folder Include="Exercises\" />
+		<Folder Include="Exercises\One\" />
+		<Folder Include="Exercises\Two\" />
+		<Folder Include="Applications\" />
+		<Folder Include="Exercises\Three\" />
+		<Folder Include="Exercises\Four\" />
+		<Folder Include="Exercises\Five\" />
+		<Folder Include="Exercises\Six\" />
+	</ItemGroup>
+</Project>
